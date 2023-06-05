@@ -50,9 +50,9 @@ To use this project, clone this repository, set up an EC2 instance on AWS, insta
 
 ## Use these links to open services
 
-`http://localhost:8050` for real time dashboards\\
-`http://localhost:4888` for jupyter notebooks\\
-`http://localhost:2080` for nifi dashboard\\
-`http://localhost:50070` for hdfs\\
+`http://localhost:8050` for real time dashboards  
+`http://localhost:4888` for jupyter notebooks  
+`http://localhost:2080` for nifi dashboard  
+`http://localhost:50070` for hdfs  
 
 `Don't forget to change URLs based on your specific port if you modify them in the Dockerfile`
