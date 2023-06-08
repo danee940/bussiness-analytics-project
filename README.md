@@ -40,10 +40,6 @@ The data analysis process includes:
 
 To use this project, clone this repository, set up an EC2 instance on AWS, install Docker, and the necessary tools.
 
-### Thank you for checking out our project! Don't forget to star ⭐ this repo if you like our project
-
-> Disclaimer: This project is made for educational purposes and is not intended for production environments.
-
 ## Run docker
 
 `docker-compose up -d`
@@ -54,5 +50,3 @@ To use this project, clone this repository, set up an EC2 instance on AWS, insta
 `http://localhost:4888` for jupyter notebooks  
 `http://localhost:2080` for nifi dashboard  
 `http://localhost:50070` for hdfs  
-
-`Don't forget to change URLs based on your specific port if you modify them in the Dockerfile`
